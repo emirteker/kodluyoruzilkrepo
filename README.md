@@ -6,8 +6,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) GIT Eğitiminde oluşturduğumu
 
 ## Installatıon
 
-'''
-https://github.com/emirteker/kodluyoruzilkrepo.git
+''' https://github.com/emirteker/kodluyoruzilkrepo.git
 '''
 
 ## Usage
@@ -15,8 +14,7 @@ https://github.com/emirteker/kodluyoruzilkrepo.git
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
-'''
-cd kodluyoruzilkrepo
+'''cd kodluyoruzilkrepo
 code .
 '''
 
